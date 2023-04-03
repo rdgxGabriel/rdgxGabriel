@@ -14,5 +14,10 @@
 <div> 
   <a href="https://www.instagram.com/gabriel_rdgx/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
+  <a href="https://open.spotify.com/playlist/0j9FI2c4Wnvs0qI9YZTbyP" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://www.riotgames.com/pt-br#_=_" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
+  <a href="https://us.shop.battle.net/pt-br" target="_blank"><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"></a>
+  
+  
   
 </div>
